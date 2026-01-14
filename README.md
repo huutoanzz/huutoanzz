@@ -14,10 +14,7 @@
 </div>
 
 ###
-<!-- Thêm visitor badge ở góc phải trên hoặc dưới stats -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=huutoanzz&label=Visitors&color=00bfff&style=for-the-badge" alt="Visitors count" />
-</p>
+
 <h1 align="center">
   Hi there 👋 <br/>
   I'm Toan
@@ -93,12 +90,12 @@ I enjoy building small projects, improving my skills every day, and staying acti
 <h3 align="left">🔥 My Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huutoanzz&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huutoanzz&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-
-<!-- Hoặc dùng streak stats để giống Current/Longest Streak -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huutoanzz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=huutoanzz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=huutoanzz&layout=compact&langs_count=8&theme=tokyonight"
+    height="165"
+  />
 </p>
