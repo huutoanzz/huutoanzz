@@ -21,7 +21,10 @@ Currently working as <b>Software Staff</b> at <b>Jia Hsin</b>.
 </ul>
 <hr/>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=huutoanzz&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+  <strong>🏆 GitHub Profile Highlights</strong><br>
+  <span style="font-size: 1.2em;">
+    Multi-Language 💻 | Starstruck ⭐ | Quickdraw ⚡ | Epic Committer 🔥
+  </span><br>
 </p>
 <div align="center">
   <img width="49%" height="160px" 
