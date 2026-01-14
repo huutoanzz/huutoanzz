@@ -22,6 +22,7 @@ I enjoy building small projects, improving my skills every day, and staying acti
      width="45%"
      align="right"
      style="margin-top: 40px;" />
+<div style="clear: both;"></div>
 
 <!-- ===== About Me ===== -->
 <h2>⚡🙋‍♂️ About Me</h2>
