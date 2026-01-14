@@ -9,24 +9,29 @@
 <!-- ===== Typing Effect ===== -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00BFFF&size=27&lines=My+name+is+Toan...;Fresher+Web+Developer...;Always+learning+new+technologies..." />
 
-<!-- ===== Intro + Cat ===== -->
-<table cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="55%" valign="top">
-      <p style="font-size: 58px; line-height: 1.7;">
-        <h2>
-          I am a <b>Fresher Developer</b> who is always curious about new technologies and eager to learn.
-          <br/><br/>
-          I enjoy building small projects, improving my skills every day, and staying active through music, sports, and travel.
-        </h2>
-      </p>
-    </td>
-    <td width="45%" align="right" valign="middle">
-      <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif"
-           width="100%" />
-    </td>
-  </tr>
-</table>
+<!-- ===== Intro + Cat  ===== -->
+<div style="overflow: hidden;">
+
+  <!-- Intro -->
+  <div style="width: 55%; float: left;">
+    <p style="font-size: 22px; line-height: 1.7;">
+      <i>
+        I am a <b>Fresher Developer</b> who is always curious about new technologies and eager to learn.
+        <br/><br/>
+        I enjoy building small projects, improving my skills every day, and staying active through music, sports, and travel.
+      </i>
+    </p>
+  </div>
+
+  <!-- Cat -->
+  <div style="width: 45%; float: right; text-align: right;">
+    <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif"
+         width="100%" />
+  </div>
+
+</div>
+
+<div style="clear: both;"></div>
 
 
 <!-- ===== About Me ===== -->
