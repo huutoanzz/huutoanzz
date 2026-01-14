@@ -1,12 +1,3 @@
-<!-- ===== GitHub Stats (Top) ===== -->
-<div align="center">
-  <img width="49%" height="165"
-       src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api?username=huutoanzz&show_icons=true&count_private=true&hide_border=true&theme=cobalt&title_color=00BFFF&icon_color=00BFFF&text_color=ADD8E6&bg_color=0d1117&cache_seconds=86400" />
-  &nbsp;
-  <img width="49%" height="165"
-       src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api/top-langs/?username=huutoanzz&layout=compact&hide_border=true&theme=cobalt&title_color=00BFFF&text_color=ADD8E6&bg_color=0d1117&cache_seconds=86400" />
-</div>
-
 <!-- ===== Header ===== -->
 <img width="100%"
      src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
