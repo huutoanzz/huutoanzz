@@ -14,7 +14,6 @@
 <i>
 I am a <b>Fresher Developer</b> who is always curious about new technologies and eager to learn.
 I enjoy building small projects, improving my skills every day, and staying active through music, sports, and travel.
-Currently working as <b>Software Staff</b> at <b>Jia Hsin</b>.
 </i>
 </p>
 
@@ -120,15 +119,6 @@ Currently working as <b>Software Staff</b> at <b>Jia Hsin</b>.
        alt="snake animation"/>
 </p>
 
-<!-- ===== Visitors ===== -->
-<div align="center">
-  <br/>
-  <p><b>Visitors Count</b></p>
-  <p>
-    <img src="https://img.shields.io/badge/dynamic/json?color=00BFFF&label=Visitors&query=count&url=https%3A%2F%2Fapi.badges.sh%2Fvisits%2Fhuutoanzz" />
-  </p>
-  <br/>
-</div>
 
 <hr/>
 
