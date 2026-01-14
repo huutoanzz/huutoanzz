@@ -13,7 +13,7 @@
 <table cellpadding="0" cellspacing="0">
   <tr>
     <td width="55%" valign="top">
-      <p style="font-size: 18px; line-height: 1.7;">
+      <p style="font-size: 58px; line-height: 1.7;">
         <i>
           I am a <b>Fresher Developer</b> who is always curious about new technologies and eager to learn.
           <br/><br/>
