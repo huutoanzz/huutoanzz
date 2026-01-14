@@ -1,43 +1,44 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/huutoandev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://github.com/huutoanzz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
-  </a>
-</div>
-
-###
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
 <h1 align="center">
   Hi there 👋 <br/>
   I'm Toan
 </h1>
 
-<h3 align="center">
-  Web Developer | Software Staff
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&lines=My+name+is+Toan...;Fresher+Web+Developer...;Always+learning+new+technologies..." />
 
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-<p align="left">
-I am a <strong>Fresher Developer</strong> who is always curious about new technologies and eager to learn.  
-I enjoy building small projects, improving my skills every day, and staying active through <strong>music, sports, and travel</strong>.
-<br/><br/>
-🌍 <strong>Location:</strong> Ho Chi Minh City, Vietnam <br/>
-🖥️ <strong>Portfolio:</strong> <a href="http://portfolio-website-phanhuutoan.vercel.app/" target="_blank">My Portfolio</a> <br/>
-✉️ <strong>Email:</strong> <a href="mailto:toanphan799@gmail.com">toanphan799@gmail.com</a> <br/>
-🚀 <strong>Currently working at:</strong> <a href="http://www.jiahsin.com.vn" target="_blank">Jia Hsin</a> <br/>
-💬 <strong>Fun fact:</strong> I'm secretly Spider-Man 🕷️ (but don't tell anyone)
+<p>
+<i>
+I am a <b>Fresher Developer</b> who is always curious about new technologies and eager to learn.  
+I enjoy building small projects, improving my skills every day, and staying active through music, sports, and travel.  
+Currently working as <b>Software Staff</b> at <b>Jia Hsin</b>.
+</i>
 </p>
+
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right"/>
+
+<h2>⚡🙋‍♂️ About Me</h2>
+
+<ul>
+  <li>🌍 Based in Ho Chi Minh City, Vietnam</li>
+  <li>🖥️ Portfolio: <a href="http://portfolio-website-phanhuutoan.vercel.app/" target="_blank">My Portfolio</a></li>
+  <li>🚀 Currently working at <a href="http://www.jiahsin.com.vn" target="_blank">Jia Hsin</a></li>
+  <li>📫 Email: <a href="mailto:toanphan799@gmail.com">toanphan799@gmail.com</a></li>
+  <li>💬 Fun fact: I'm secretly Spider-Man 🕷️</li>
+</ul>
+
+<hr/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=huutoanzz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+</p>
+
+<div align="center">  
+  <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=huutoanzz&show_icons=true&count_private=true&hide_border=true&title_color=9932CC&icon_color=9932CC&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huutoanzz&layout=compact&hide_border=true&title_color=9932CC&text_color=EE82EE&bg_color=0d1117" />
+</div>
+
+---
 
 ###
 
@@ -87,15 +88,20 @@ I enjoy building small projects, improving my skills every day, and staying acti
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
-
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=huutoanzz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=huutoanzz&layout=compact&langs_count=8&theme=tokyonight"
-    height="165"
-  />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
+<div align="center">
+<br/>
+<p><b>Visitors Count</b></p>  
+<p>
+  <img src="https://profile-counter.glitch.me/huutoanzz/count.svg" />
+</p> 
+<br/>
+</div>
+
+<hr/>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
