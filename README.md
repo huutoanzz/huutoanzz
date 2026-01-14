@@ -14,11 +14,11 @@
   <tr>
     <td width="55%" valign="top">
       <p style="font-size: 58px; line-height: 1.7;">
-        <i>
+        <h2>
           I am a <b>Fresher Developer</b> who is always curious about new technologies and eager to learn.
           <br/><br/>
           I enjoy building small projects, improving my skills every day, and staying active through music, sports, and travel.
-        </i>
+        </h2>
       </p>
     </td>
     <td width="45%" align="right" valign="middle">
