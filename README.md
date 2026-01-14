@@ -1,7 +1,3 @@
-<!-- ===== Header ===== -->
-<img width="100%"
-     src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
-
 <h1 align="center">
   Hi there 👋 <br/>
 </h1>
@@ -113,9 +109,3 @@ I enjoy building small projects, improving my skills every day, and staying acti
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
        alt="snake animation"/>
 </p>
-
-<hr/>
-
-<!-- ===== Footer ===== -->
-<img width="100%"
-     src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
