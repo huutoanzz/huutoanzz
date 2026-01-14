@@ -9,42 +9,21 @@
 <!-- ===== Typing Effect ===== -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00BFFF&size=27&lines=My+name+is+Toan...;Fresher+Web+Developer...;Always+learning+new+technologies..." />
 
-<!-- ===== Intro + Cat ===== -->
-<table cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="55%" valign="top">
-      <p style="font-size: 58px; line-height: 1.7;">
-        <h2>
-          I am a <b>Fresher Developer</b> who is always curious about new technologies and eager to learn.
-          <br/><br/>
-          I enjoy building small projects, improving my skills every day, and staying active through music, sports, and travel.
-        </h2>
-      </p>
-    </td>
-    <td width="45%" align="right" valign="middle">
-      <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif"
-           width="100%" />
-    </td>
-  </tr>
-</table>
+<!-- ===== Intro + About Me (left) + Cat (right) ===== -->
+<img align="right" 
+     src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif"
+     width="38%"
+     style="margin-left: 25px; margin-bottom: 15px;" />
 
+I am a **Fresher Developer** who is always curious about new technologies and eager to learn.  
+I enjoy building small projects, improving my skills every day, and staying active through music, sports, and travel.
 
-<!-- ===== About Me ===== -->
 <h2>⚡🙋‍♂️ About Me</h2>
-<ul>
-  <li>🌍 Based in Ho Chi Minh City, Vietnam</li>
-  <li>🖥️ Portfolio:
-    <a href="http://portfolio-website-phanhuutoan.vercel.app/" target="_blank">
-      My Portfolio
-    </a>
-  </li>
-  <li>🚀 Currently working at
-    <a href="http://www.jiahsin.com.vn" target="_blank">
-      Jia Hsin
-    </a>
-  </li>
-  <li>💬 Fun fact: I'm secretly Spider-Man 🕷️</li>
-</ul>
+
+- 🌍 Based in Ho Chi Minh City, Vietnam  
+- 🖥️ Portfolio: [My Portfolio](http://portfolio-website-phanhuutoan.vercel.app/)  
+- 🚀 Currently working at [Jia Hsin](http://www.jiahsin.com.vn)  
+- 💬 Fun fact: I'm secretly Spider-Man 🕷️
 
 <div align="center">
   <a href="https://www.linkedin.com/in/huutoandev" target="_blank">
@@ -53,13 +32,16 @@
   <a href="mailto:toanphan799@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-   <a href="https://discordapp.com/users/736962753784446996" target="_blank">
+  <a href="https://discordapp.com/users/736962753784446996" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.facebook.com/htoandeptrai" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 </div>
+
+<!-- Để kết thúc float right và tránh phần sau bị ảnh hưởng -->
+<br clear="right"/>
 
 <hr/>
 
@@ -89,40 +71,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img width="12" />
+  <!-- ... phần còn lại giữ nguyên ... -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
 </div>
 
@@ -132,14 +81,8 @@
        alt="snake animation"/>
 </p>
 
-
 <hr/>
 
 <!-- ===== Footer ===== -->
 <img width="100%"
      src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
-
-
-
-
-
