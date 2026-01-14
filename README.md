@@ -2,7 +2,6 @@
 
 <h1 align="center">
   Hi there 👋 <br/>
-  I'm Toan
 </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&lines=My+name+is+Toan...;Fresher+Web+Developer...;Always+learning+new+technologies..." />
@@ -100,6 +99,24 @@ Currently working as <b>Software Staff</b> at <b>Jia Hsin</b>.
 </p> 
 <br/>
 </div>
+
+<h3 align="left">📊 GitHub Activity</h3>
+
+<p align="center">
+  <a href="https://github.com/huutoanzz">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=huutoanzz&theme=tokyonight"
+      height="180"
+    />
+  </a>
+  <a href="https://github.com/huutoanzz">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=huutoanzz&show_icons=true&theme=tokyonight&line_height=27"
+      height="180"
+    />
+  </a>
+</p>
+
 
 <hr/>
 
