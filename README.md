@@ -18,11 +18,7 @@ I enjoy building small projects, improving my skills every day, and staying acti
 </p>
 
 <!-- ===== Cat ===== -->
-<div align="right">
-  <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif"
-       width="45%" />
-</div>
-
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" style="margin-top: 200px;" />
 
 <!-- ===== About Me ===== -->
 <h2>⚡🙋‍♂️ About Me</h2>
