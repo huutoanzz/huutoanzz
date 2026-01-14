@@ -60,9 +60,6 @@ I enjoy building small projects, improving my skills every day, and staying acti
 <!-- ===== Highlights ===== -->
 <p align="center">
   <strong>🏆 GitHub Profile Highlights</strong><br>
-  <span style="font-size: 1.2em;">
-    Multi-Language 💻 | Starstruck ⭐ | Quickdraw ⚡ | Epic Committer 🔥
-  </span>
 </p>
 
 <div align="center">
