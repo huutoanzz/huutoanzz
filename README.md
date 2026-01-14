@@ -9,22 +9,24 @@
 <!-- ===== Typing Effect ===== -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00BFFF&size=27&lines=My+name+is+Toan...;Fresher+Web+Developer...;Always+learning+new+technologies..." />
 
-<!-- ===== Intro ===== -->
-<p>
-<i>
-I am a <b>Fresher Developer</b> who is always curious about new technologies and eager to learn.
-I enjoy building small projects, improving my skills every day, and staying active through music, sports, and travel.
-</i>
-</p>
+<!-- ===== Intro + Cat ===== -->
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <p>
+        <i>
+          I am a <b>Fresher Developer</b> who is always curious about new technologies and eager to learn.
+          I enjoy building small projects, improving my skills every day, and staying active through music, sports, and travel.
+        </i>
+      </p>
+    </td>
+    <td width="45%" align="right">
+      <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif"
+           width="100%" />
+    </td>
+  </tr>
+</table>
 
-<!-- ===== Cat ===== -->
-<div align="right">
-  <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif"
-       width="45%"
-       style="margin-top: 40px;" />
-</div>
-
-<div style="clear: both;"></div>
 
 
 
