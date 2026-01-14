@@ -24,8 +24,10 @@ Currently working as <b>Software Staff</b> at <b>Jia Hsin</b>.
   <img src="https://github-profile-trophy.vercel.app/?username=huutoanzz&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
 <div align="center">
-  <img width="49%" height="160px" src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api?username=huutoanzz&show_icons=true&count_private=true&hide_border=true&theme=cobalt&title_color=00BFFF&icon_color=00FF7F&text_color=ADD8E6&bg_color=0d1117" />
-  <img width="41%" height="160px" src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api/top-langs/?username=huutoanzz&layout=compact&hide_border=true&theme=cobalt&title_color=00BFFF&text_color=90EE90&bg_color=0d1117" />
+  <img width="49%" height="160px" 
+       src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api?username=huutoanzz&show_icons=true&count_private=true&hide_border=true&theme=cobalt&title_color=00BFFF&icon_color=00FF7F&text_color=ADD8E6&bg_color=0d1117&cache_seconds=86400" />
+  <img width="41%" height="160px" 
+       src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api/top-langs/?username=huutoanzz&layout=compact&hide_border=true&theme=cobalt&title_color=00BFFF&text_color=90EE90&bg_color=0d1117&cache_seconds=86400" />
 </div>
 ---
 <h3 align="left">🛠 Languages & Tools</h3>
