@@ -23,7 +23,7 @@ I enjoy building small projects, improving my skills every day, and staying acti
 - 🌍 Based in Ho Chi Minh City, Vietnam  
 - 🖥️ Portfolio: [My Portfolio](http://portfolio-website-phanhuutoan.vercel.app/)  
 - 🚀 Currently working at [Jia Hsin](http://www.jiahsin.com.vn)  
-- 💬 Fun fact: I'm secretly Spider-Man 🕷️
+- 💬 Fun fact: I'm secretly Spider-Man 🕷️ — but don't tell anyone 🤫
 
 <div align="center">
   <a href="https://www.linkedin.com/in/huutoandev" target="_blank">
