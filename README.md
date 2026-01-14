@@ -95,7 +95,7 @@ Currently working as <b>Software Staff</b> at <b>Jia Hsin</b>.
 <br/>
 <p><b>Visitors Count</b></p>  
 <p>
-  <img src="https://profile-counter.glitch.me/huutoanzz/count.svg" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=count&url=https%3A%2F%2Fapi.badges.sh%2Fvisits%2Fhuutoanzz" />
 </p> 
 <br/>
 </div>
