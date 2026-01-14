@@ -1,11 +1,24 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+<!-- ===== GitHub Stats (Top) ===== -->
+<div align="center">
+  <img width="49%" height="165"
+       src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api?username=huutoanzz&show_icons=true&count_private=true&hide_border=true&theme=cobalt&title_color=00BFFF&icon_color=00BFFF&text_color=ADD8E6&bg_color=0d1117&cache_seconds=86400" />
+  &nbsp;
+  <img width="49%" height="165"
+       src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api/top-langs/?username=huutoanzz&layout=compact&hide_border=true&theme=cobalt&title_color=00BFFF&text_color=ADD8E6&bg_color=0d1117&cache_seconds=86400" />
+</div>
+
+<!-- ===== Header ===== -->
+<img width="100%"
+     src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 <h1 align="center">
   Hi there 👋 <br/>
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FF7F&size=27&lines=My+name+is+Toan...;Fresher+Web+Developer...;Always+learning+new+technologies..." />
+<!-- ===== Typing Effect ===== -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00BFFF&size=27&lines=My+name+is+Toan...;Fresher+Web+Developer...;Always+learning+new+technologies..." />
 
+<!-- ===== Intro ===== -->
 <p>
 <i>
 I am a <b>Fresher Developer</b> who is always curious about new technologies and eager to learn.
@@ -14,40 +27,59 @@ Currently working as <b>Software Staff</b> at <b>Jia Hsin</b>.
 </i>
 </p>
 
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right"/>
+<!-- ===== Cat ===== -->
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif"
+     width="45%"
+     align="right"
+     style="margin-top: 40px;" />
 
+<!-- ===== About Me ===== -->
 <h2>⚡🙋‍♂️ About Me</h2>
 <ul>
   <li>🌍 Based in Ho Chi Minh City, Vietnam</li>
-  <li>🖥️ Portfolio: <a href="http://portfolio-website-phanhuutoan.vercel.app/" target="_blank">My Portfolio</a></li>
-  <li>🚀 Currently working at <a href="http://www.jiahsin.com.vn" target="_blank">Jia Hsin</a></li>
-  <li>📫 Email: <a href="mailto:toanphan799@gmail.com">toanphan799@gmail.com</a></li>
+  <li>🖥️ Portfolio:
+    <a href="http://portfolio-website-phanhuutoan.vercel.app/" target="_blank">
+      My Portfolio
+    </a>
+  </li>
+  <li>🚀 Currently working at
+    <a href="http://www.jiahsin.com.vn" target="_blank">
+      Jia Hsin
+    </a>
+  </li>
+  <li>📫 Email:
+    <a href="mailto:toanphan799@gmail.com">
+      toanphan799@gmail.com
+    </a>
+  </li>
   <li>💬 Fun fact: I'm secretly Spider-Man 🕷️</li>
 </ul>
 
 <hr/>
 
+<!-- ===== Highlights ===== -->
 <p align="center">
   <strong>🏆 GitHub Profile Highlights</strong><br>
   <span style="font-size: 1.2em;">
     Multi-Language 💻 | Starstruck ⭐ | Quickdraw ⚡ | Epic Committer 🔥
-  </span><br>
+  </span>
 </p>
 
 <div align="center">
   <a href="https://github.com/huutoanzz">
-    <img width="50%" height="195px"
+    <img width="49%" height="195"
          src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api?username=huutoanzz&show_icons=true&count_private=true&hide_border=true&theme=cobalt&title_color=00BFFF&icon_color=00BFFF&text_color=ADD8E6&bg_color=0d1117&cache_seconds=86400" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://github.com/huutoanzz">
-    <img width="50%" height="195px"
-         src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api/top-langs/?username=huutoanzz&layout=compact&card_width=400&hide_border=true&theme=cobalt&title_color=00BFFF&icon_color=00BFFF&text_color=ADD8E6&bg_color=0d1117&cache_seconds=86400" />
+    <img width="49%" height="195"
+         src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api/top-langs/?username=huutoanzz&layout=compact&hide_border=true&theme=cobalt&title_color=00BFFF&text_color=ADD8E6&bg_color=0d1117&cache_seconds=86400" />
   </a>
 </div>
 
 <hr/>
 
+<!-- ===== Languages & Tools ===== -->
 <h3 align="left">🛠 Languages & Tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
@@ -91,19 +123,24 @@ Currently working as <b>Software Staff</b> at <b>Jia Hsin</b>.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
 </div>
 
+<!-- ===== Snake ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+       alt="snake animation"/>
 </p>
 
+<!-- ===== Visitors ===== -->
 <div align="center">
-<br/>
-<p><b>Visitors Count</b></p>
-<p>
-  <img src="https://img.shields.io/badge/dynamic/json?color=00FF7F&label=Visitors&query=count&url=https%3A%2F%2Fapi.badges.sh%2Fvisits%2Fhuutoanzz" />
-</p>
-<br/>
+  <br/>
+  <p><b>Visitors Count</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/dynamic/json?color=00BFFF&label=Visitors&query=count&url=https%3A%2F%2Fapi.badges.sh%2Fvisits%2Fhuutoanzz" />
+  </p>
+  <br/>
 </div>
 
 <hr/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
+<!-- ===== Footer ===== -->
+<img width="100%"
+     src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
