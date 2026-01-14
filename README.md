@@ -1,8 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+
 <h1 align="center">
   Hi there 👋 <br/>
 </h1>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=00FF7F&size=27&lines=My+name+is+Toan...;Fresher+Web+Developer...;Always+learning+new+technologies..." />
+
 <p>
 <i>
 I am a <b>Fresher Developer</b> who is always curious about new technologies and eager to learn.
@@ -10,7 +13,9 @@ I enjoy building small projects, improving my skills every day, and staying acti
 Currently working as <b>Software Staff</b> at <b>Jia Hsin</b>.
 </i>
 </p>
+
 <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right"/>
+
 <h2>⚡🙋‍♂️ About Me</h2>
 <ul>
   <li>🌍 Based in Ho Chi Minh City, Vietnam</li>
@@ -19,20 +24,30 @@ Currently working as <b>Software Staff</b> at <b>Jia Hsin</b>.
   <li>📫 Email: <a href="mailto:toanphan799@gmail.com">toanphan799@gmail.com</a></li>
   <li>💬 Fun fact: I'm secretly Spider-Man 🕷️</li>
 </ul>
+
 <hr/>
+
 <p align="center">
   <strong>🏆 GitHub Profile Highlights</strong><br>
   <span style="font-size: 1.2em;">
     Multi-Language 💻 | Starstruck ⭐ | Quickdraw ⚡ | Epic Committer 🔥
   </span><br>
 </p>
+
 <div align="center">
-  <img width="49%" height="160px" 
-       src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api?username=huutoanzz&show_icons=true&count_private=true&hide_border=true&theme=cobalt&title_color=00BFFF&icon_color=00FF7F&text_color=ADD8E6&bg_color=0d1117&cache_seconds=86400" />
-  <img width="41%" height="160px" 
-       src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api/top-langs/?username=huutoanzz&layout=compact&hide_border=true&theme=cobalt&title_color=00BFFF&text_color=90EE90&bg_color=0d1117&cache_seconds=86400" />
+  <a href="https://github.com/huutoanzz">
+    <img width="50%" height="195px"
+         src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api?username=huutoanzz&show_icons=true&count_private=true&hide_border=true&theme=cobalt&title_color=00BFFF&icon_color=00BFFF&text_color=ADD8E6&bg_color=0d1117&cache_seconds=86400" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/huutoanzz">
+    <img width="50%" height="195px"
+         src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api/top-langs/?username=huutoanzz&layout=compact&card_width=400&hide_border=true&theme=cobalt&title_color=00BFFF&icon_color=00BFFF&text_color=ADD8E6&bg_color=0d1117&cache_seconds=86400" />
+  </a>
 </div>
----
+
+<hr/>
+
 <h3 align="left">🛠 Languages & Tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
@@ -75,10 +90,11 @@ Currently working as <b>Software Staff</b> at <b>Jia Hsin</b>.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
 </div>
-###
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
+
 <div align="center">
 <br/>
 <p><b>Visitors Count</b></p>
@@ -87,5 +103,7 @@ Currently working as <b>Software Staff</b> at <b>Jia Hsin</b>.
 </p>
 <br/>
 </div>
+
 <hr/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
