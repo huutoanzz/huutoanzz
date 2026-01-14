@@ -37,11 +37,6 @@ I enjoy building small projects, improving my skills every day, and staying acti
       Jia Hsin
     </a>
   </li>
-  <li>📫 Email:
-    <a href="mailto:toanphan799@gmail.com">
-      toanphan799@gmail.com
-    </a>
-  </li>
   <li>💬 Fun fact: I'm secretly Spider-Man 🕷️</li>
 </ul>
 
@@ -52,7 +47,7 @@ I enjoy building small projects, improving my skills every day, and staying acti
   <a href="mailto:toanphan799@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-   <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
+   <a href="https://discordapp.com/users/736962753784446996" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.facebook.com/htoandeptrai" target="_blank">
