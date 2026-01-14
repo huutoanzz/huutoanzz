@@ -13,35 +13,29 @@ I am a <b>Fresher Developer</b> who is always curious about new technologies and
 I enjoy building small projects, improving my skills every day, and staying active through music, sports, and travel.
 </i>
 </p>
+<!-- ===== Cat ===== -->
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" style="float: right; margin: 0 0 20px 20px;" />
 <!-- ===== About Me ===== -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="width: 50%; padding-right: 20px;">
-    <h2>⚡🙋‍♂️ About Me</h2>
-    <ul>
-      <li>🌍 Based in Ho Chi Minh City, Vietnam</li>
-      <li>🖥️ Portfolio:
-        <a href="http://portfolio-website-phanhuutoan.vercel.app/" target="_blank">
-          My Portfolio
-        </a>
-      </li>
-      <li>🚀 Currently working at
-        <a href="http://www.jiahsin.com.vn" target="_blank">
-          Jia Hsin
-        </a>
-      </li>
-      <li>📫 Email:
-        <a href="mailto:toanphan799@gmail.com">
-          toanphan799@gmail.com
-        </a>
-      </li>
-      <li>💬 Fun fact: I'm secretly Spider-Man 🕷️</li>
-    </ul>
-  </div>
-  <!-- ===== Cat ===== -->
-  <div style="width: 50%;">
-    <img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="100%" />
-  </div>
-</div>
+<h2>⚡🙋‍♂️ About Me</h2>
+<ul>
+  <li>🌍 Based in Ho Chi Minh City, Vietnam</li>
+  <li>🖥️ Portfolio:
+    <a href="http://portfolio-website-phanhuutoan.vercel.app/" target="_blank">
+      My Portfolio
+    </a>
+  </li>
+  <li>🚀 Currently working at
+    <a href="http://www.jiahsin.com.vn" target="_blank">
+      Jia Hsin
+    </a>
+  </li>
+  <li>📫 Email:
+    <a href="mailto:toanphan799@gmail.com">
+      toanphan799@gmail.com
+    </a>
+  </li>
+  <li>💬 Fun fact: I'm secretly Spider-Man 🕷️</li>
+</ul>
 <hr/>
 <!-- ===== Highlights ===== -->
 <h2 align="center">🏆 GitHub Profile Highlights</h2>
