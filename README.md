@@ -103,9 +103,3 @@ I enjoy building small projects, improving my skills every day, and staying acti
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
 </div>
-
-<!-- ===== Snake ===== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-       alt="snake animation"/>
-</p>
