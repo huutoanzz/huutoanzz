@@ -15,17 +15,12 @@
        src="https://github-readme-streak-stats.herokuapp.com?user=huutoanzz&theme=transparent&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=FFFFFF&sideNums=ADD8E6&currStreakLabel=00BFFF&sideLabels=ADD8E6&dates=8b949e&background=0d1117" />
 </div>
 <br/>
+
 <!-- ===== LANGUAGES & TOOLS ===== -->
 <h3 align="center">🛠 Languages & Tools</h3>
-<p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,java,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,java,php,html,css,bootstrap,react,tailwind,nextjs&theme=dark" />
 </p>
-<p align="center"><strong>Frontend</strong></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,nextjs&theme=dark" />
-</p>
-<p align="center"><strong>Backend & Database</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mysql,mongodb,docker&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" title="Microsoft SQL Server" />
