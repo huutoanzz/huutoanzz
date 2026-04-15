@@ -19,7 +19,7 @@
 <!-- ===== LANGUAGES & TOOLS ===== -->
 <h3 align="center">🛠 Languages & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js,ts,java,php,html,css,bootstrap,react,tailwind,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,java,php,html,css,bootstrap,react,tailwind,nextjs&theme=dark" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mysql,mongodb,docker&theme=dark" />
