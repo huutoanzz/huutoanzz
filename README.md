@@ -19,9 +19,9 @@
 <!-- ===== LANGUAGES & TOOLS ===== -->
 <h3 align="center">🛠 Languages & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,java,php,html,css,bootstrap,react,tailwind,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,java,php,html,css,bootstrap,react,tailwind,nextjs,vue&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mysql,mongodb,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,nodejs,express,dotnet,mysql,mongodb,docker,postman&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" title="Microsoft SQL Server" />
 </p>
