@@ -1,34 +1,25 @@
-<br/>
-
 <!-- ===== GITHUB STATS ===== -->
 <div align="center">
   <a href="https://github.com/huutoanzz">
     <img width="49%" height="180"
-         src="https://github-readme-stats.vercel.app/api?username=huutoanzz&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&title_color=A3FF12&icon_color=B7FF2A&text_color=D9FFB3&bg_color=0d1117&cache_seconds=0&v=3" />
+         src="https://github-readme-stats.vercel.app/api?username=huutoanzz&amp;show_icons=true&amp;hide_border=true&amp;theme=dark&amp;title_color=A3FF12&amp;icon_color=B7FF2A&amp;text_color=D9FFB3&amp;bg_color=0d1117" />
   </a>
   <a href="https://github.com/huutoanzz">
     <img width="49%" height="180"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=huutoanzz&layout=compact&hide_border=true&theme=dark&title_color=A3FF12&text_color=D9FFB3&bg_color=0d1117&langs_count=8&cache_seconds=0&v=3" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=huutoanzz&amp;layout=compact&amp;hide_border=true&amp;theme=dark&amp;title_color=A3FF12&amp;text_color=D9FFB3&amp;bg_color=0d1117&amp;langs_count=8" />
   </a>
 </div>
-
 <div align="center">
   <img width="60%"
-       src="https://streak-stats.demolab.com?user=huutoanzz&theme=transparent&hide_border=true&stroke=A3FF12&ring=B7FF2A&fire=A3FF12&currStreakNum=FFFFFF&sideNums=D9FFB3&currStreakLabel=A3FF12&sideLabels=D9FFB3&dates=7C8F66&background=0d1117&v=3" />
+       src="https://streak-stats.demolab.com?user=huutoanzz&amp;theme=transparent&amp;hide_border=true&amp;stroke=A3FF12&amp;ring=B7FF2A&amp;fire=A3FF12&amp;currStreakNum=FFFFFF&amp;sideNums=D9FFB3&amp;currStreakLabel=A3FF12&amp;sideLabels=D9FFB3&amp;dates=7C8F66&amp;background=0d1117" />
 </div>
-
 <br/>
 
 <!-- ===== LANGUAGES & TOOLS ===== -->
-<h3 align="center">🛠 Languages & Tools</h3>
-
+<h3 align="center">🛠 Languages &amp; Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,java,php,html,css,bootstrap,react,tailwind,nextjs,vue&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,java,php,html,css,bootstrap,react,tailwind,nextjs,vue&amp;theme=dark" />
 </p>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,nodejs,express,dotnet,mysql,mongodb,docker,postman&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-       height="48"
-       title="Microsoft SQL Server" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,nodejs,express,dotnet,mysql,mongodb,docker,postman,sqlserver&amp;theme=dark" />
 </p>
