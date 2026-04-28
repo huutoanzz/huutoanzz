@@ -18,7 +18,7 @@
 <!-- ===== LANGUAGES & TOOLS ===== -->
 <h3 align="center">🛠 Languages &amp; Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,java,php,html,css,bootstrap,react,tailwind,nextjs,vue&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,java,php,html,css,bootstrap,react,tailwind,nextjs,vue&amp;theme=dark" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,npm,nodejs,express,dotnet,mysql,mongodb,docker,postman,sqlserver&amp;theme=dark" />
