@@ -6,7 +6,7 @@
   </a>
   <a href="https://github.com/huutoanzz">
     <img width="49%" height="180"
-         src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api/top-langs/?username=huutoanzz&layout=compact&hide_border=true&theme=dark&title_color=A3FF12&text_color=D9FFB3&bg_color=0d1117&langs_count=8&cache_seconds=1800" />
+         src="https://github-readme-stats-fj3zno8wg-toanphans-projects.vercel.app/api/top-langs/?username=huutoanzz&layout=compact&hide=php,java&hide_border=true&theme=dark&title_color=A3FF12&text_color=D9FFB3&bg_color=0d1117&langs_count=8&cache_seconds=1800" />
   </a>
 </div>
 
