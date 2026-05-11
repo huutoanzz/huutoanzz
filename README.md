@@ -1,15 +1,10 @@
 <h1 align="center">⚡ Hi, I'm Toan ⚡</h1>
-
 <h3 align="center">
   also known as <strong>Draco</strong> 🐉
 </h3>
-
 <p align="center">
   Building cool things with code & caffeine ☕
 </p>
-
-<br/>
-
 <!-- ===== GITHUB STATS ===== -->
 <div align="center">
   <a href="https://github.com/huutoanzz">
@@ -26,9 +21,6 @@
   <img width="60%"
        src="https://streak-stats.demolab.com?user=huutoanzz&theme=transparent&hide_border=true&stroke=A3FF12&ring=B7FF2A&fire=A3FF12&currStreakNum=FFFFFF&sideNums=D9FFB3&currStreakLabel=A3FF12&sideLabels=D9FFB3&dates=7C8F66&background=0d1117" alt="GitHub Streak" />
 </div>
-
-<br/>
-
 <!-- ===== LANGUAGES & TOOLS ===== -->
 <h3 align="center">🛠 Languages & Tools</h3>
 
@@ -39,11 +31,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,npm,nodejs,express,dotnet,mysql,mongodb,docker,postman,sqlserver&theme=dark" alt="Tools & Databases" />
 </p>
-
-<br/>
-
-<br/>
-
 <!-- ===== CONTACT ===== -->
 <h3 align="center">📫 Connect with me</h3>
 
