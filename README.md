@@ -19,7 +19,8 @@
 
 <div align="center">
   <img width="60%"
-       src="https://streak-stats.demolab.com?user=huutoanzz&theme=transparent&hide_border=true&stroke=A3FF12&ring=B7FF2A&fire=A3FF12&currStreakNum=FFFFFF&sideNums=D9FFB3&currStreakLabel=A3FF12&sideLabels=D9FFB3&dates=7C8F66&background=0d1117" alt="GitHub Streak" />
+     src="https://streak-stats.demolab.com?user=huutoanzz&theme=dark&hide_border=true&stroke=A3FF12&ring=B7FF2A&fire=A3FF12&currStreakNum=D9FFB3&sideNums=D9FFB3&currStreakLabel=A3FF12&sideLabels=D9FFB3&dates=7C8F66&background=0d1117"
+     alt="GitHub Streak" />
 </div>
 <!-- ===== LANGUAGES & TOOLS ===== -->
 <h3 align="center">🛠 Languages & Tools</h3>
